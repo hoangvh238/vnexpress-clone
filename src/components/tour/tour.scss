@@ -71,7 +71,7 @@
         width: 49.092%;
         padding-right: 40px;
         position: relative;
-        @media screen and(max-width:979px) {
+        @media screen and (max-width:979px) {
             width: 40%;
         }
         &::before {
@@ -120,7 +120,7 @@
         width: 25.455%;
         padding-right: 40px;
         position: relative;
-        @media screen and(max-width:979px) {
+        @media screen and (max-width:979px) {
             width: 30%;
         }
         &::after {
@@ -154,7 +154,7 @@
             font-size: 15px;
             font-weight: bold;
             line-height: 140%;
-            @media screen and(max-width:979px) {
+            @media screen and (max-width:979px) {
                 font-size: 13px;
             }
         }
